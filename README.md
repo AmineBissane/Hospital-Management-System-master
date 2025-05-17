@@ -1,4 +1,4 @@
-# Zara Clinic - Hospital Management System
+Clinic - Hospital Management System
 
 ## Overview
 
@@ -72,5 +72,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For any queries or issues, please contact:
 
-- **Email**: rootrahimoon22@gmail.com
-- **LinkedIn**: [root Rahimoon](https://www.linkedin.com/in/rootrahimoon/)
+- **Email**: mohamedaminebissane@gmail.com
